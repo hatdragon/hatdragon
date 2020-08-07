@@ -32,8 +32,8 @@ Skills: C# / SQL / Angular / JS / HTML / CSS / Lua / Perl
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hatdragon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/krisklink/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hatdragon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/thehatdragon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/krisklink)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/6051437/hatdragon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC9_yLQKvnYoPXtCd4ptr_Bg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/thehatdragon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://krisklink.me/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg' alt='twitch' height='40'>](https://twitch.tv/u/hatdragon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg' alt='soundcloud' height='40'>](https://soundcloud.com/everyday-neptune)  
-
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hatdragon&show_icons=true&theme=onedark&count_private=true&include_all_commits=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatdragon&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) 
-
+-->
 ![Profile views](https://gpvc.arturio.dev/hatdragon)  
