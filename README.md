@@ -21,7 +21,7 @@ My 20-plus years of software development has been defined by helping small to me
 
 Skills: C# / SQL / Angular / JS / HTML / CSS / Lua / Perl
 
-~~🔭 I’m currently working on WoW addons.  Specifically, [GW2_UI](https://github.com/Mortalknight/GW2_UI) ~~
+- ~~🔭 I’m currently working on WoW addons.  Specifically,~~ [GW2_UI](https://github.com/Mortalknight/GW2_UI)
 - 🌱 I’m currently learning Azure and AWS. 
 - 👯 I’m looking to collaborate on open-source tools to help other developers. 
 - 🤔 I’m looking for help with logistics systems. 
